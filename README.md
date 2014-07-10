@@ -1,4 +1,7 @@
 knowrob_addons
 ==============
 
-Packages outside of the core KnowRob stack that are e.g. too large to include them into the standard distribution
+"The software represented by this stub repository is partly being
+developed in the context of the RoboHow EU project
+(http://www.robohow.eu). Its original content can be found at
+https://github.com/knowrob/knowrob_addons."
